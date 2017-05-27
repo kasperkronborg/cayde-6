@@ -1,0 +1,8 @@
+{
+  "bot": {
+    "token": "{$CAYDE6_TOKEN}"
+  },
+  "db": {
+    "url": "mongodb://localhost/cayde-development"
+  }
+}
